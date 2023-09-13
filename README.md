@@ -3,6 +3,15 @@
 
 A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados agrícolas para ajudar os agricultores a tomar decisões informadas baseadas em dados precisos, maximizando a qualidade da colheita e otimizando a eficiência operacional em até 30%. Com acesso direto a especialistas agrícolas em tempo real, a AgroSync oferece suporte e orientação personalizada para otimizar as operações agrícolas e alcançar uma maior produtividade.
 
+
+# <span style="color: #63C71F;">Demonstrações</span>
+Demonstraçõe iniciais das entregas. v.1 após o refatoramento solicitado pelo FIAP. Clique no link ou Video, e você será direcionado ao Youtube.
+
+[Assista ao video do Web.v1](https://youtu.be/gAff578VQNM)
+
+<a href="https://youtu.be/gAff578VQNM"><img width="1332" alt="image" src="https://github.com/AgroSync-FIAP/Hybrid-Mobile-App-Development/blob/main/Captura%20de%20tela%202023-09-13%20145713.png">
+</a>
+
 # Funcionalidades
 Análises de alta precisão do clima e solo
 Integração de dados para maior produtividade
