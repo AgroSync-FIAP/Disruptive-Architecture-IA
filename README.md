@@ -6,6 +6,8 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 # <span style="color: #63C71F;">Demonstrações da Assistente de Análise de Solo</span>
 Demonstraçõe iniciais das entregas. v.1 após o refatoramento solicitado pelo FIAP. Está é a versão inicial da nossa escolha da integração de uma IA, como o GPT-3, no projeto AgroSync, que envolve a análise do solo e um assistente de busca de informações, juntamente com o Arduino para análise de parâmetros como umidade e pH, é uma abordagem inovadora que combina eficiência e precisão. A IA, alimentada pelo GPT-3, é capaz de entender e responder a perguntas dos agricultores de forma rápida e precisa, fornecendo orientações e informações vitais para o cultivo de suas plantações. Ao mesmo tempo, o Arduino permite uma coleta contínua de dados do solo em tempo real, garantindo que os agricultores tenham acesso a informações críticas para a tomada de decisões informadas sobre o manejo de suas plantações. Essa combinação de tecnologias oferece uma solução abrangente que pode otimizar a agricultura, aumentar a produtividade e melhorar a gestão dos recursos agrícolas, contribuindo assim para o sucesso e a sustentabilidade do setor agrícola.
 
+[Assista ao video do assistente.v1](https://1drv.ms/v/s!AkuRYf8aHHUCgX8efT1BdRVOvEpW)
+
 
 # <span style="color: #63C71F;">Demonstrações</span>
 Demonstraçõe iniciais das entregas. v.1 após o refatoramento solicitado pelo FIAP. Clique no link ou Video, e você será direcionado ao Youtube.
